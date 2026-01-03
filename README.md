@@ -129,32 +129,3 @@ Automation Engineer | QA | AI Enthusiast
 ## 📜 License
 
 This project is licensed under the MIT License.
-
-```
-
----
-
-## 🔥 Pro Tip (Important)
-
-When you push to GitHub:
-- ❌ Do **NOT** commit `.env`
-- ✅ Add `.env` to `.gitignore`
-- ✅ Commit in small meaningful messages
-
-Example commit message:
-```
-
-feat: add AI-based test case generation with Gemini
-
-```
-
----
-
-If you want, next I can:
-- 🔹 Rewrite this README to be **ATS-optimized**
-- 🔹 Add **screenshots section**
-- 🔹 Help you write **LinkedIn project post**
-- 🔹 Prepare **interview explanation (2 minutes)**
-
-Just tell me 👍
-```
